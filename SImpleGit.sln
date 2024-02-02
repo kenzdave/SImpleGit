@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SImpleGit", "SImpleGit.csproj", "{A6C572FA-2A75-48FE-A712-EB173ADB2C52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6C572FA-2A75-48FE-A712-EB173ADB2C52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6C572FA-2A75-48FE-A712-EB173ADB2C52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6C572FA-2A75-48FE-A712-EB173ADB2C52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6C572FA-2A75-48FE-A712-EB173ADB2C52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F22FAB7-C953-44DC-BFE7-F6852AB81AD3}
+	EndGlobalSection
+EndGlobal
